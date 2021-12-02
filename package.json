@@ -1,0 +1,23 @@
+{
+  "name": "directory",
+  "version": "1.0.0",
+  "description": "to see if i know what i'm doing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cboler/directory.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cboler/directory/issues"
+  },
+  "homepage": "https://github.com/cboler/directory#readme",
+  "dependencies": {
+    "elasticsearch": "^16.7.2",
+    "express": "^4.17.1"
+  }
+}

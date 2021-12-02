@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Joe Biden",
+        "address": "1600 Pennsylvania Avenue NW Washington, D.C. 20502",
+        "phone": "202-456-1414"
+    },
+    {
+        "id": 2,
+        "name": "Peter Griffin",
+        "address": "31 Spooner Street, Quahog, Rhode Island 00093",
+        "phone": "401-455-1155"
+    },
+    {
+        "id": 3,
+        "name": "Al Bundy",
+        "address": "9764 Jeopardy Lane, Chicago, Illinois 60007",
+        "phone": "773-555-2878"
+    },
+    {
+        "id": 4,
+        "name": "Ted Bundy",
+        "address": "9779 Prison Lane, Chicago, Illinois 60007",
+        "phone": "777-555-2777"
+    }
+]
