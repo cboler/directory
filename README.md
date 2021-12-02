@@ -33,8 +33,6 @@ Here's a screencap of the app functioning:
 
 ## Example Usage
 
-I almost forgot the example curl commands to get data...
-
 >curl -X GET "http://localhost/3000/name/joe"
 
 >curl -X GET "http://localhost/3000/name/pet"
