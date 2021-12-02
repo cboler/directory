@@ -1,7 +1,7 @@
 # Directory 
 Berevity being the soul of wit and such...  
 
-Unfortunately, I decided to use node, express, and elasticsearch. I think I could have been done already with dotnet core 3.1 using sqlite, but I believed that this route displayed more flexibility, adaptability, and willingness to learn new technologies in a short turnaround.
+Unfortunately, I decided to use node, express, and elasticsearch. I think I could have been done far quicker with dotnet core 3.1 using sqlite, but I believed that this route displayed more flexibility, adaptability, and willingness to learn new technologies in a short turnaround.
 
 This could easily be expanded to further endpoints, or expanded to expose more of the elasticsearch functionality as a wrapper. However, it needs a good cleaning and refactor first.
 
