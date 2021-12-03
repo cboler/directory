@@ -43,3 +43,9 @@ By definition JSON is object oriented, it's in the name.
 
 https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/api-reference.html
 https://github.com/elastic/elasticsearch-js
+
+
+
+# Update - Now there's a new PhoneDirectory folder with a Csharp solution
+
+Use Visual Studio to run it and use the swagger page to use the API.
