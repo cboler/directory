@@ -14,6 +14,7 @@ namespace PhoneDirectoryTests.ProviderTests
         protected DirectoryEntryProviderTestBase()
         {
             AutoFixture = new Fixture();
+            // todo: looks like this needs a parameterless constructor to mock it properly.
             MockDirectoryContext = new Mock<DirectoryContext>();
 
             DirectoryEntryProvider = new DirectoryEntryProvider(MockDirectoryContext.Object);
